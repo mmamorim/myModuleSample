@@ -70,7 +70,7 @@ import lib from "./mylib.js"
 export default lib
 ~~~
 
-A função ```fakename``` sorteia uma das strings dos vetores ```first``` e ```last``` devolvendo a junção destas duas strings.
+O objeto ```lib``` contém um método que gera um SVG a partir de uma chave (string).
 
 
 #### Testando sua lib ```lib```
