@@ -1,4 +1,5 @@
 
+
 Aqui iremos brincar de construir um módulo NodeJs público com o objetivo de todos poderem ter seus próprios módulos publicados e acrescentar visibilidade aos seus projetos.
 
 # Módulo NPM nodejs
